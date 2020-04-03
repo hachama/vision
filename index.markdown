@@ -5,5 +5,6 @@
 layout: home
 ---
 
+### Computer vision
 
 This course provides an overview of computer vision, emphasizing the mathematical models used for various applications.
