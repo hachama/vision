@@ -4,11 +4,11 @@ title: Material
 key: page-about
 ---
  
-
+The lectures videos can be found on my YouTube channel [YouTube channel](https://www.youtube.com/playlist?list=PLJtarp32QM7-3l4iUDAE-scRTot3-Spa9)
 |---------+------------------------------------------------+--------------------------+------------+------------|
-| Week    |          Chapter                               | Slides/Scribes           | Notebooks   |  Exercices|
+| Week    |          Chapter                               | Slides/Scribes           | Lectures   |  Exercices|
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:----------:|
-|   1     |Introduction                                    | [Slides 1](slides#intro) |      -     |            |
+|   1     |Introduction                                    | [Slides 1](slides#intro) |     -      |            |
 |=========+================================================+==========================+============+============|
 |         | Part 1. Detection and matching                 |                          |            | [TD 1](td/TD1.pdf)   |
 |:-------:|:----------------------------------------------:|:------------------------:|:----------:|:----------:|
