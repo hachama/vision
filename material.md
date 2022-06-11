@@ -5,9 +5,9 @@ key: page-about
 ---
 
 
-[Examen corrigé 2022](td/ExamenCVKh_22.pdf)
-
 The lectures videos can be found on my YouTube channel [YouTube channel](https://www.youtube.com/playlist?list=PLJtarp32QM7-3l4iUDAE-scRTot3-Spa9)
+
+[Examen corrigé 2022](td/ExamenCVKh_22.pdf)
 
 
 |---------+------------------------------------------------+--------------------------+------------+------------|
