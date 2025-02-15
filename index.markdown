@@ -8,3 +8,8 @@ layout: home
 ### Computer vision
 
 This course provides an overview of computer vision, emphasizing the mathematical models used for various applications.
+
+The course is now availbe at:
+
+[https://canvas.instructure.com/courses/11329701](https://canvas.instructure.com/courses/11329701)
+
